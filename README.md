@@ -95,6 +95,7 @@ https://github.com/Timokhinvv/DZ09-02/blob/main/SC3.png
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 [SC4] (https://github.com/Timokhinvv/DZ09-02/SC4)
+https://github.com/Timokhinvv/DZ09-02/blob/main/SC4.png
 
  ---
 
