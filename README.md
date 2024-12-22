@@ -42,7 +42,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 [SC1] (https://github.com/Timokhinvv/DZ09-02/SC1)
-[SC1] (https://github.com/Timokhinvv/DZ09-02/SC1a)
+[SC1a] (https://github.com/Timokhinvv/DZ09-02/SC1a)
 
 
  ---
