@@ -78,8 +78,10 @@ https://github.com/Timokhinvv/DZ09-02/blob/d7a41adbf84102f017ae7f758fd6c3bc9680d
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-[SC2] (https://github.com/Timokhinvv/DZ09-02/SC2)
+
 [SC3] (https://github.com/Timokhinvv/DZ09-02/SC3)
+https://github.com/Timokhinvv/DZ09-02/blob/main/SC3.png
+
  ---
 
 ### Задание 4
@@ -93,6 +95,7 @@ https://github.com/Timokhinvv/DZ09-02/blob/d7a41adbf84102f017ae7f758fd6c3bc9680d
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 [SC4] (https://github.com/Timokhinvv/DZ09-02/SC4)
+
  ---
 
 ### Задание 5* со звёздочкой
